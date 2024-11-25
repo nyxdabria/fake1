@@ -1,6 +1,6 @@
 __path = process.cwd()
 require("./settings");
-var express = require('express'),
+var //express = require('express'),
     cors = require('cors'),
     flash = require('connect-flash'),
     rateLimit = require("express-rate-limit"),
